@@ -41,4 +41,16 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
