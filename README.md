@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -17,6 +18,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -27,6 +29,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0402-remove-k-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## String
@@ -64,6 +67,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -73,4 +77,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
