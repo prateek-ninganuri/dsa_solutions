@@ -85,4 +85,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0344-reverse-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
