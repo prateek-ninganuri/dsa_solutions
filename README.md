@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -85,6 +86,7 @@
 | [0039-combination-sum](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0216-combination-sum-iii) |
 ## Two Pointers
 |  |
 | ------- |
