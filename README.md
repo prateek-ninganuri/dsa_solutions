@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0344-reverse-string) |
 ## Bracket Sequences
 |  |
