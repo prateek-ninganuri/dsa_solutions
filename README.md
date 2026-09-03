@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0485-max-consecutive-ones) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
