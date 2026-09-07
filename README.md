@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0216-combination-sum-iii) |
@@ -95,10 +96,23 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0344-reverse-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prateek-ninganuri/dsa_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
